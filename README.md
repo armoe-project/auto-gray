@@ -13,10 +13,10 @@
 ## 使用
 
 ```html
-<!-- 常规 -->
-<script src="//cdn.jsdelivr.net/gh/armoe-project/auto-gray/dist/autoGray.js"></script>
-<!-- UMD -->
-<script src="//cdn.jsdelivr.net/gh/armoe-project/auto-gray/dist/autoGray.umd.cjs"></script>
+<!-- UNPKG -->
+<script src="//unpkg.com/auto-gray/dist/autoGray.js"></script>
+<!-- jsDelivr -->
+<script src="//cdn.jsdelivr.net/npm/auto-gray/dist/autoGray.js"></script>
 ```
 
 ## 反馈
