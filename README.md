@@ -14,9 +14,9 @@
 
 ```html
 <!-- 常规 -->
-<script src="//cdn.armoe.cn/static/js/autoGray.js"></script>
+<script src="//cdn.jsdelivr.net/gh/armoe-project/auto-gray/dist/autoGray.js"></script>
 <!-- UMD -->
-<script src="//cdn.armoe.cn/static/js/autoGray.umd.js"></script>
+<script src="//cdn.jsdelivr.net/gh/armoe-project/auto-gray/dist/autoGray.umd.cjs"></script>
 ```
 
 ## 反馈
