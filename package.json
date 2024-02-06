@@ -1,0 +1,29 @@
+{
+  "name": "auto-gray",
+  "version": "0.1.0",
+  "author": "ZhenXin",
+  "license": "GPL-3.0-only",
+  "homepage": "https://github.com/armoe-project/auto-gray",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/autoGray.umd.cjs",
+  "module": "./dist/autoGray.js",
+  "exports": {
+    "import": "./dist/autoGray.js",
+    "require": "./dist/autoGray.umd.cjs"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "@babel/runtime": "^7.23.9",
+    "@rollup/plugin-babel": "^6.0.4",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.12"
+  }
+}
